@@ -1,7 +1,7 @@
 #==================#
 #    HOW TO USE    #
 #==================#
-
+- create folders for storign checkpoints and results to prevent messy structure
 - Go to Neptune AI and download the model.keras file
 - Go to the platform where it was trained
 - Upload the model
