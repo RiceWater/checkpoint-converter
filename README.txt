@@ -1,3 +1,10 @@
+#============#
+#    INFO    #
+#============#
+- requirements.txt has the packages the API is using. Models that will be converted must be work here. This is the venv for this project too
+- kaggle-requirements.txt has the list of packages kaggle notebooks had when I trained models
+- colab-requirements.txt has the list of packages colab notebooks had when I trained models
+
 #==================#
 #    HOW TO USE    #
 #==================#
